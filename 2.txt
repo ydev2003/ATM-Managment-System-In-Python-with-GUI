@@ -1,0 +1,2 @@
+1	deposit				Mon Nov  7 09:32:24 2022	0	10000
+2	withdraw			Mon Nov  7 09:32:55 2022	10000	9500
